@@ -1,0 +1,15 @@
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.deps.json
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.dll
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\ref\Formulario.dll
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.pdb
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.AssemblyReference.cache
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfoInputs.cache
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfo.cs
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.dll
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\refint\Formulario.dll
+C:\Users\mg707\source\repos\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.pdb
